@@ -1,0 +1,39 @@
+TITLE: Remote Work & Hybrid Workplace Policy
+
+DOCUMENT_TYPE: Policy
+DEPARTMENT: Human Resources
+LAST_UPDATED: 20 January 2025
+
+SUMMARY:
+Defines guidelines for hybrid work models, remote work eligibility, and employee responsibilities.
+
+KEYWORDS:
+WFH, hybrid work, remote policy, flexibility, HR
+
+CONTENT:
+
+## 1. Policy Overview
+The organization follows a hybrid work model to balance flexibility and collaboration.
+
+## 2. Eligibility Criteria
+- Minimum 6 months tenure
+- Role must support remote execution
+
+## 3. Hybrid Work Model
+- 3 days office (mandatory)
+- 2 days remote
+
+## 4. Work Expectations
+- Availability during core hours
+- Participation in all scheduled meetings
+- Timely delivery of work
+
+## 5. Technology & Security
+- Mandatory use of VPN
+- Secure handling of company data
+- Use of company-issued devices only
+
+## 6. Compliance Monitoring
+- Attendance tracked via HRMS
+- Performance monitored via KPIs
+

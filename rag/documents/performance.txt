@@ -1,0 +1,59 @@
+TITLE: Performance Management & Appraisal Framework
+
+DOCUMENT_TYPE: Policy
+DEPARTMENT: Human Resources
+LAST_UPDATED: 01 February 2025
+VERSION: 4.1
+
+SUMMARY:
+This document defines the organization’s performance management framework, including evaluation criteria, rating methodology, calibration processes, and linkage to compensation and promotions.
+
+KEYWORDS:
+performance review, appraisal, KPI, employee evaluation, promotion, rating system
+
+CONTENT:
+
+## 1. Objective
+To create a fair, transparent, and performance-driven culture aligned with business goals.
+
+## 2. Performance Rating Scale
+- 5: Outstanding Performer
+- 4: Exceeds Expectations
+- 3: Meets Expectations
+- 2: Needs Improvement
+- 1: Unsatisfactory
+
+## 3. Key Evaluation Parameters
+- Business Impact & Results
+- Quality of Deliverables
+- Innovation and Problem Solving
+- Team Collaboration & Leadership
+- Communication Skills
+- Adherence to Deadlines
+
+## 4. Performance Cycle
+- Mid-Year Review: June
+- Annual Review: December
+
+## 5. Goal Setting
+- Goals must be SMART (Specific, Measurable, Achievable, Relevant, Time-bound)
+- Defined at the beginning of the performance cycle
+
+## 6. Calibration Process
+- Cross-functional calibration ensures fairness
+- Conducted by leadership panel
+- Adjustments made to avoid rating bias
+
+## 7. Compensation Linkage
+- Ratings directly impact salary increments
+- Bonus eligibility tied to performance rating
+
+## 8. Promotion Criteria
+- Consistent rating of 4 or above
+- Leadership potential
+- Business requirement
+
+## 9. Performance Improvement Plan (PIP)
+- Employees rated 1 or 2 may be placed on PIP
+- Duration: 60–90 days
+- Continuous monitoring and feedback
