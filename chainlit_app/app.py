@@ -11,6 +11,10 @@ import io
 from PIL import Image
 
 # Load your CSV data
+import os
+
+# Get port from environment variable, default to 8501 for local testing
+PORT = int(os.environ.get("PORT", 8501))
 
 
 import matplotlib
