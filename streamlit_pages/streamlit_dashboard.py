@@ -730,7 +730,8 @@ def load_dashboard():
     # -----------------------------
     # BACKEND REPORT FILE
     # -----------------------------
-    REPORT_FILE = Path(r"orchestrator_workflow_insights\final_hr_report.txt")
+    # REPORT_FILE = Path(r"orchestrator_workflow_insights\final_hr_report.txt")
+    REPORT_FILE = Path("orchestrator_workflow_insights/final_hr_report.txt") 
 
     # -----------------------------
     # READ REPORT
