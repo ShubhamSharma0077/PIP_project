@@ -16,3 +16,6 @@ statsmodels
 chainlit
 torch
 langchain_classic
+sentence_transformers
+chromadb
+seaborn
