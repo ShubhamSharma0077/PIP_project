@@ -13,3 +13,4 @@ langgraph
 transformers
 python-dotenv
 statsmodels
+chainlit
