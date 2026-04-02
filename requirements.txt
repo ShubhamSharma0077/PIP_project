@@ -12,3 +12,4 @@ langchain-groq
 langgraph
 transformers
 python-dotenv
+statsmodels
