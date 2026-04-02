@@ -1,0 +1,39 @@
+TITLE: Compensation, Benefits & Rewards Framework
+
+DOCUMENT_TYPE: Policy
+DEPARTMENT: HR & Finance
+LAST_UPDATED: 05 February 2025
+
+SUMMARY:
+Details compensation structure, benefits, bonuses, and retention strategies.
+
+KEYWORDS:
+salary, bonus, benefits, compensation, HR policy
+
+CONTENT:
+
+## 1. Salary Structure
+- Basic Salary
+- House Rent Allowance
+- Special Allowances
+- Variable Pay
+
+## 2. Bonus Programs
+- Annual performance bonus
+- Sales incentives
+- Spot awards
+
+## 3. Employee Benefits
+- Health Insurance
+- Provident Fund
+- Gratuity
+- Paid leaves
+
+## 4. Salary Revision Cycle
+- Annual increment in April
+- Based on performance and budget
+
+## 5. Retention Programs
+- ESOPs
+- Retention bonuses
+

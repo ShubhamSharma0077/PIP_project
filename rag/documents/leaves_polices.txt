@@ -1,0 +1,70 @@
+TITLE: Global Employee Leave & Time-Off Policy
+
+DOCUMENT_TYPE: Policy
+DEPARTMENT: Human Resources
+LAST_UPDATED: 15 January 2025
+VERSION: 3.2
+
+SUMMARY:
+This comprehensive policy defines employee leave entitlements, eligibility, approval workflows, compliance requirements, and exceptions across all business units globally. It ensures consistency, fairness, and adherence to labor laws.
+
+KEYWORDS:
+leave policy, PTO, sick leave, casual leave, maternity leave, HR compliance, time off
+
+CONTENT:
+
+## 1. Purpose
+The purpose of this policy is to establish a structured and transparent framework for managing employee leave across the organization. It ensures compliance with statutory regulations while maintaining operational efficiency.
+
+## 2. Scope
+This policy applies to all full-time employees across all geographies unless overridden by local labor laws or contractual agreements.
+
+## 3. Types of Leave
+
+### 3.1 Paid Time Off (PTO)
+- Employees are entitled to 20 working days annually.
+- PTO accrues monthly at a prorated basis.
+- PTO can be used for personal, vacation, or emergency purposes.
+
+### 3.2 Sick Leave
+- 10 days per year allocated.
+- Medical certificate required for absence exceeding 2 consecutive days.
+- Extended sick leave subject to HR approval.
+
+### 3.3 Casual Leave
+- 6 days annually.
+- Typically used for short-term personal needs.
+
+### 3.4 Maternity Leave
+- 26 weeks of paid leave as per statutory guidelines.
+- Additional unpaid leave may be granted on case-by-case basis.
+
+### 3.5 Paternity Leave
+- 5 working days.
+- Must be availed within 3 months of childbirth.
+
+### 3.6 Unpaid Leave (Loss of Pay)
+- Applicable when leave balance is exhausted.
+- Requires manager and HR approval.
+
+## 4. Leave Application Process
+- All leave requests must be submitted via HRMS.
+- Manager approval is mandatory before leave commencement.
+- HR approval required for long-term leave (>10 days).
+
+## 5. Carry Forward Rules
+- Maximum 10 days PTO can be carried forward.
+- Carry-forward leaves expire after 6 months.
+
+## 6. Encashment Policy
+- Employees can encash unused PTO above 10 days annually.
+- Encashment rates based on basic salary.
+
+## 7. Compliance & Audit
+- HR conducts quarterly audits of leave records.
+- Non-compliance may result in disciplinary action.
+
+## 8. Exceptions & Special Cases
+- Emergency leave can be regularized post approval.
+- Compassionate leave handled on a case-by-case basis.
+

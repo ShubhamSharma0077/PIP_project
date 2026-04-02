@@ -1,0 +1,425 @@
+employee_id,survey_date,department,tenure_years,performance_rating,engagement_score,feedback_comment,feedback_category,sentiment,summary
+E001,01-01-2019,Operations,0.9,4,25,The flexible hours have really helped me maintain a healthy work‑life balance.,Work-life balance,Positive,Flexible hours improve work-life balance
+E002,01-01-2019,Sales,0.69,4,25,"I appreciate the clear path for promotion, though the timeline feels a bit vague.",Career growth,Neutral,Clear promotion path but timeline vague
+E003,01-01-2019,Engineering,0.5,1,25,Management's open-door policy makes it easy to raise concerns.,Management,Positive,Open-door policy facilitates raising concerns
+E004,01-01-2019,HR,0.85,3,25,The recent salary adjustments were modest but show the company is listening.,Compensation,Positive,Modest salary adjustments indicate company listening
+E005,01-01-2019,Engineering,0.63,1,25,"Team events foster a positive culture, but occasional after‑hours gatherings feel mandatory.",Culture,Neutral,Team events positive; after-hours gatherings feel mandatory
+E006,01-01-2019,Engineering,0.76,4,25,Workload spikes during quarter‑end are stressful and affect my personal time.,Work-life balance,Negative,Quarter-end workload spikes stress personal time
+E007,01-01-2019,Engineering,1,1,25,I feel my skills are developing through the new mentorship program.,Career growth,Positive,Mentorship program helps develop my skills
+E008,01-01-2019,Marketing,0.46,4,25,"Communication from leadership is transparent, yet sometimes overly detailed.",Management,Neutral,Transparent leadership communication sometimes overly detailed
+E009,01-01-2019,Sales,0.74,2,25,"The office environment is inclusive, though the layout could be more collaborative.",Culture,Neutral,Inclusive office environment; layout needs collaboration
+E010,01-01-2019,HR,0.34,5,25,"Bonus payouts were lower than expected, which is disappointing.",Compensation,Negative,"Bonus payouts lower than expected, disappointing"
+E011,01-01-2019,Operations,0.87,3,25,Remote work options have improved my overall satisfaction.,Work-life balance,Positive,Remote work improves overall satisfaction.
+E012,01-01-2019,Operations,0.83,2,25,"Career advancement opportunities exist, but the criteria are not well defined.",Career growth,Neutral,Opportunities exist but criteria unclear.
+E013,01-01-2019,Finance,0.57,3,25,Managers provide constructive feedback regularly.,Management,Positive,Managers give regular constructive feedback.
+E014,01-01-2019,Operations,0.43,3,25,"The company’s values align with my own, creating a strong sense of belonging.",Culture,Positive,"Values align, fostering strong sense belonging."
+E015,01-01-2019,Marketing,0.75,2,25,"Compensation packages are competitive, but benefits could be expanded.",Compensation,Neutral,"Competitive pay, but benefits need expansion."
+E016,01-01-2019,Sales,0.88,4,25,Frequent meetings interrupt deep work and reduce productivity.,Management,Negative,Frequent meetings disrupt deep work productivity.
+E017,01-01-2019,HR,0.67,5,25,"Training resources are abundant, helping me grow professionally.",Career growth,Positive,Abundant training resources aid professional growth.
+E018,01-01-2019,Sales,0.38,2,25,"Leadership recognizes achievements publicly, boosting morale.",Management,Positive,Public recognition of achievements boosts morale.
+E019,01-01-2019,Finance,0.65,1,25,The pay raise this year was minimal compared to market rates.,Compensation,Negative,Pay raise minimal versus market rates.
+E020,01-01-2019,Marketing,0.38,2,25,"Work‑life balance is supported by generous PTO, yet holiday coverage is stressful.",Work-life balance,Neutral,"Generous PTO supports balance, coverage stressful."
+E021,01-01-2019,Engineering,0.78,3,25,The recent shift to flexible hours has greatly improved my work-life balance.,Work-life balance,Positive,Flexible hours improved work-life balance.
+E022,01-01-2019,Operations,0.67,1,25,"I feel my workload has increased, making it hard to keep personal time.",Work-life balance,Negative,Increased workload reduces personal time.
+E023,01-01-2019,Operations,0.88,4,25,"The new project management tool has streamlined tasks, but I'm still overwhelmed.",Management,Negative,Tool streamlines tasks but feels overwhelming.
+E024,01-01-2019,Operations,0.97,5,25,I appreciate the quarterly career development sessions; they help me plan my path.,Career growth,Positive,Quarterly sessions aid career planning.
+E025,01-01-2019,Finance,0.92,4,25,There aren't many opportunities to take on challenging assignments.,Career growth,Negative,Lack of challenging assignment opportunities.
+E026,01-01-2019,HR,0.59,2,25,"The mentorship program is a great idea, but enrollment is limited.",Career growth,Neutral,"Mentorship good idea, enrollment limited."
+E027,01-01-2019,Operations,0.46,4,25,Management's recent decision to cut budgets feels abrupt and unclear.,Management,Negative,Budget cuts abrupt and unclear.
+E028,01-01-2019,Sales,0.66,4,25,I appreciate the transparent communication from leadership during the transition.,Management,Positive,Transparent leadership communication appreciated during transition.
+E029,01-01-2019,Sales,0.4,2,25,Sometimes feedback from supervisors feels vague and not actionable.,Management,Negative,Supervisor feedback vague and unhelpful.
+E030,01-01-2019,Finance,0.38,2,25,The team culture encourages collaboration and creative problem solving.,Culture,Positive,Culture encourages collaboration and creativity.
+E031,01-01-2019,Sales,0.49,1,25,"The office environment can feel too noisy, impacting focus.",Culture,Negative,Office noise disrupts focus and productivity.
+E032,01-01-2019,Operations,0.79,2,25,I feel the company doesn't celebrate achievements enough.,Culture,Negative,Lack of celebration for employee achievements.
+E033,01-01-2019,Finance,0.38,3,25,"My salary aligns with my responsibilities, and I feel fairly compensated.",Compensation,Positive,Salary matches responsibilities; feels fairly compensated.
+E034,01-01-2019,Engineering,0.57,2,25,The recent pay raise was minimal compared to the increased workload.,Compensation,Negative,Pay raise insufficient relative to higher workload.
+E035,01-01-2019,Engineering,0.95,1,25,"Bonus structure is clear, but the target metrics are hard to meet.",Compensation,Negative,Bonus clear but targets are difficult to achieve.
+E036,01-01-2019,Finance,0.67,2,25,I enjoy the flexible benefits plan; it caters to diverse employee needs.,Compensation,Positive,Flexible benefits plan meets diverse employee needs.
+E037,01-01-2019,Finance,0.92,4,25,The lack of remote work options is affecting my work-life balance.,Work-life balance,Negative,No remote work harms work-life balance.
+E038,01-01-2019,Sales,0.56,4,25,The onboarding process was thorough and helped me settle quickly.,Culture,Positive,Thorough onboarding helped me settle quickly.
+E039,01-01-2019,Sales,0.88,3,25,Career progression paths are not well communicated to staff.,Career growth,Negative,Career paths lack clear communication to staff.
+E040,01-01-2019,HR,0.4,4,25,I appreciate the occasional team lunches; they boost morale.,Culture,Positive,Team lunches appreciated; they boost morale.
+E041,01-01-2019,Sales,0.4,4,25,Workload has increased recently affecting work life balance.,Work-life balance,Negative,Increased workload hurting work-life balance.
+E042,01-01-2019,Sales,0.49,4,25,The company has provided me with great opportunities for career growth and development.,Career growth,Positive,Great opportunities for career growth and development.
+E043,01-01-2019,Sales,0.95,4,25,Management has been very supportive and open to feedback and suggestions.,Management,Positive,Management supportive and open to feedback.
+E044,01-01-2019,Finance,0.93,5,25,"I love the culture here, it's very collaborative and inclusive.",Culture,Positive,"Culture is collaborative and inclusive, loved."
+E045,01-01-2019,Finance,0.76,2,25,The compensation package is not competitive compared to other companies in the industry.,Compensation,Negative,Compensation package not competitive industry-wide.
+E046,01-01-2019,Marketing,0.44,3,25,"I appreciate the flexibility in working hours, it helps me balance work and personal life.",Work-life balance,Positive,Flexible hours help balance work and life.
+E047,01-01-2019,Sales,0.58,2,25,There are limited opportunities for advancement in my current role.,Career growth,Negative,Limited advancement opportunities in current role.
+E048,01-01-2019,HR,0.75,5,25,The team leads are approachable and willing to help with any issues or concerns.,Management,Positive,Team leads approachable and helpful with issues.
+E049,01-01-2019,Marketing,0.94,2,25,The company culture is very strong and everyone is passionate about their work.,Culture,Positive,"Strong culture, everyone passionate about work."
+E050,01-01-2019,Finance,0.74,1,25,I feel underpaid considering my experience and qualifications.,Compensation,Negative,Feeling underpaid given experience and qualifications.
+E051,01-01-2019,Sales,0.86,4,25,"The work-life balance is great, I can easily manage my personal and professional life.",Work-life balance,Positive,"Great work-life balance, easily manage personal life."
+E052,01-01-2019,Sales,0.98,4,25,Career growth opportunities are limited and it's hard to move up the career ladder.,Career growth,Negative,"Limited career growth opportunities, hard to advance."
+E053,01-01-2019,Finance,0.78,2,25,The management style is very autocratic and does not encourage feedback or dissent.,Management,Negative,"Autocratic management style, discourages feedback and dissent."
+E054,01-01-2019,Marketing,0.96,3,25,"I enjoy the social events and team-building activities, they help to create a sense of community.",Culture,Positive,"Enjoy social events and team-building, fostering community."
+E055,01-01-2019,HR,0.62,2,25,"The salary increase was not as expected, it was lower than industry standards.",Compensation,Negative,"Salary increase below expectations, lower than industry standards."
+E056,01-01-2019,Finance,0.89,4,25,I have learned a lot from my colleagues and the company provides great training and development programs.,Career growth,Positive,Learned from colleagues; great training and development programs.
+E057,01-01-2019,Sales,0.68,2,25,"The company culture is not very diverse and inclusive, it needs to improve.",Culture,Negative,"Company culture lacks diversity and inclusion, needs improvement."
+E058,01-01-2019,HR,0.68,3,25,"The compensation and benefits are great, but the work can be stressful at times.",Compensation,Positive,Compensation and benefits are great despite occasional stress.
+E059,01-01-2019,Engineering,0.34,3,25,I feel that my ideas and suggestions are not being heard or considered by management.,Management,Negative,"Ideas ignored by management, not considered."
+E060,01-01-2019,Sales,0.46,4,25,The company provides a great work environment and resources to help employees succeed.,Culture,Positive,Great work environment with resources supporting employee success.
+E061,01-01-2019,Operations,0.92,4,25,The flexible remote schedule has greatly improved my work-life balance.,Work-life balance,Positive,Flexible remote schedule improves work-life balance
+E062,01-01-2019,Operations,0.91,3,25,"Opportunities for skill development feel limited, making career growth uncertain.",Career growth,Negative,Limited skill development creates uncertain career growth
+E063,01-01-2019,HR,0.8,3,25,"Management consistently communicates clear goals, which keeps the team aligned.",Management,Positive,"Management communicates clear goals, keeping team aligned"
+E064,01-01-2019,Operations,0.53,2,25,"The office culture is inclusive, but occasional cliques still emerge.",Culture,Neutral,Inclusive office culture with occasional emerging cliques
+E065,01-01-2019,Engineering,0.5,2,25,Recent salary adjustments haven't kept pace with market rates.,Compensation,Negative,Salary adjustments lag behind current market rates
+E066,01-01-2019,Engineering,0.59,3,25,I appreciate the generous vacation policy that supports personal time.,Work-life balance,Positive,Generous vacation policy supports personal time
+E067,01-01-2019,Sales,0.86,5,25,"Career progression paths are vague, leaving many employees unsure about the future.",Career growth,Negative,Vague career progression leaves employees uncertain about future
+E068,01-01-2019,Marketing,0.94,4,25,"Leadership is approachable and open to feedback, fostering a supportive environment.",Management,Positive,Approachable leadership open to feedback fosters support
+E069,01-01-2019,Sales,0.37,4,25,There is a noticeable lack of recognition for overtime work.,Culture,Negative,Overtime work lacks noticeable recognition
+E070,01-01-2019,HR,0.41,5,25,The company's wellness programs have positively impacted my daily routine.,Work-life balance,Positive,Wellness programs positively impact daily routine
+E071,01-01-2019,Marketing,0.95,2,25,Training resources are available but not always relevant to current projects.,Career growth,Neutral,Training resources exist but often lack relevance
+E072,01-01-2019,HR,0.74,3,25,Managers provide constructive feedback that helps me improve my performance.,Management,Positive,Constructive manager feedback improves performance
+E073,01-01-2019,Sales,0.58,4,25,"Team outings are fun, yet they sometimes interfere with project deadlines.",Culture,Neutral,Fun outings occasionally disrupt project deadlines
+E074,01-01-2019,Marketing,0.75,4,25,Compensation packages could be more transparent regarding bonus calculations.,Compensation,Negative,Compensation lacks transparency in bonus calculations
+E075,01-01-2019,Engineering,0.62,4,25,The balance between meetings and focused work time feels just right.,Work-life balance,Positive,Meeting and focus time balance feels ideal
+E076,01-01-2019,Operations,0.37,4,25,I feel stuck in my current role with minimal chances for advancement.,Career growth,Negative,Feeling stuck with limited advancement opportunities
+E077,01-01-2019,Finance,0.68,3,25,Senior leadership demonstrates a genuine commitment to employee well-being.,Management,Positive,Leadership shows genuine commitment to employee well-being
+E078,01-01-2019,Sales,0.33,2,25,"The office environment is noisy, which hampers concentration.",Culture,Negative,Noisy office environment hampers concentration
+E079,01-01-2019,Sales,0.75,5,25,Performance reviews are fair and highlight both strengths and areas for growth.,Management,Positive,Performance reviews are fair and comprehensive
+E080,01-01-2019,HR,0.53,3,25,There is a need for clearer communication about company-wide strategic changes.,Management,Negative,Communication about strategic changes needs clarity
+E081,01-01-2019,Finance,0.48,4,25,The flexible hours policy really helps me maintain a healthy work-life balance.,Work-life balance,Positive,Flexible hours improve work-life balance.
+E082,01-01-2019,Engineering,0.71,3,25,"I appreciate the recent salary increase, but the bonus structure still feels unclear.",Compensation,Neutral,Salary raise appreciated; bonus structure remains unclear.
+E083,01-01-2019,HR,0.64,2,25,The quarterly career development workshops have been incredibly useful for my growth.,Career growth,Positive,Quarterly workshops greatly support professional growth.
+E084,01-01-2019,Sales,0.82,5,25,"Management often misses the mark on communication, leaving many projects unclear.",Management,Negative,"Management communication frequently unclear, causing project confusion."
+E085,01-01-2019,Operations,0.34,3,25,"The team culture is collaborative and welcoming, which boosts daily motivation.",Culture,Positive,"Collaborative, welcoming culture boosts daily motivation."
+E086,01-01-2019,Operations,0.62,1,25,"I feel the workload has increased recently, making it hard to balance personal commitments.",Work-life balance,Negative,Increased workload hampers personal commitment balance.
+E087,01-01-2019,Engineering,0.67,3,25,"Mentorship opportunities are scarce, hindering my professional advancement.",Career growth,Negative,Scarce mentorship hinders professional advancement.
+E088,01-01-2019,Operations,0.44,4,25,"The new project management tools streamline tasks, improving overall efficiency.",Management,Positive,"New tools streamline tasks, boost efficiency."
+E089,01-01-2019,Sales,0.59,5,25,"I enjoy the inclusive culture, but sometimes decision-making is too slow.",Culture,Neutral,Inclusive culture appreciated; decision-making sometimes slow.
+E090,01-01-2019,Sales,0.6,3,25,"Compensation aligns with industry standards, which keeps me satisfied.",Compensation,Positive,"Compensation matches industry standards, keeping satisfaction."
+E091,01-01-2019,HR,0.69,1,25,Work-life balance is threatened by frequent after-hours meetings.,Work-life balance,Negative,After-hours meetings harm work-life balance.
+E092,01-01-2019,Marketing,0.87,2,25,"Career growth paths are well defined, but promotions are rarely discussed openly.",Career growth,Negative,"Defined growth paths, but promotions lack transparency."
+E093,01-01-2019,HR,0.57,3,25,Management’s feedback sessions are constructive and timely.,Management,Positive,Feedback sessions are constructive and timely.
+E094,01-01-2019,Marketing,0.43,3,25,The office environment feels stale; a few décor updates would lift morale.,Culture,Negative,Stale office environment needs décor updates.
+E095,01-01-2019,Marketing,0.59,3,25,"I’m grateful for the generous vacation policy, it really supports my well-being.",Work-life balance,Positive,Generous vacation policy supports employee well-being.
+E096,01-01-2019,Finance,0.5,4,25,"The workload distribution is uneven, causing some team members to feel overworked.",Management,Negative,Uneven workload distribution leads to overworked staff.
+E097,01-01-2019,Sales,0.86,3,25,"Professional development budgets are insufficient, limiting skill-building opportunities.",Career growth,Negative,Insufficient development budgets limit skill-building opportunities.
+E098,01-01-2019,Sales,0.4,1,25,Management’s transparency during company changes has been exemplary.,Management,Positive,Management shows exemplary transparency during changes.
+E099,01-01-2019,Engineering,0.42,4,25,"The workplace culture promotes innovation, yet risk-taking is still discouraged.",Culture,Neutral,Culture encourages innovation but discourages risk-taking.
+E100,01-01-2019,Finance,0.63,1,25,I feel the compensation package is below the market average for my role.,Compensation,Negative,Compensation package below market average for role.
+E032,01-01-2020,Operations,1.79,2.4,48,I appreciate the opportunities provided for career growth and development.,Career growth,Positive,Appreciates opportunities for career growth
+E035,01-01-2020,Engineering,1.95,1.4,29,Management has been very supportive and understanding of our needs.,Management,Positive,Management supportive and understanding of needs
+E027,01-01-2020,Operations,1.46,4.4,90,"The company culture is amazing, it feels like a big family.",Culture,Positive,"Company culture amazing, feels like family"
+E047,01-01-2020,Sales,1.58,2,39,I feel underpaid considering the amount of work I'm doing.,Compensation,Negative,Feels underpaid relative to workload
+E033,01-01-2020,Finance,1.38,2.8,55,The flexible working hours have greatly improved my work-life balance.,Work-life balance,Positive,Flexible hours greatly improve work-life balance
+E073,01-01-2020,Sales,1.58,4.1,77,I'm excited about the new projects that will help me grow professionally.,Career growth,Positive,Excited about projects aiding professional growth
+E016,01-01-2020,Sales,1.88,3.7,79,"Sometimes I feel micromanaged, which can be frustrating.",Management,Negative,"Feels micromanaged, causing frustration at work"
+E098,01-01-2020,Sales,1.4,1.4,33,The team-building activities have really helped to boost company culture.,Culture,Positive,Team-building activities boost company culture
+E065,01-01-2020,Engineering,1.5,1.9,41,"The compensation package is great, but could be better.",Compensation,Neutral,Compensation package good but could improve
+E030,01-01-2020,Finance,1.38,2,40,"I love the fact that I can work from home when needed, great work-life balance.",Work-life balance,Positive,"Loves remote work, great work-life balance"
+E048,01-01-2020,HR,1.75,4.9,93,Career growth opportunities are limited in my current role.,Career growth,Negative,Limited career growth opportunities in current role
+E055,01-01-2020,HR,1.62,1.8,37,My manager is always available to discuss any issues or concerns.,Management,Positive,Manager always available for issues and concerns
+E066,01-01-2020,Engineering,1.59,2.8,59,The company culture can be improved by having more open communication.,Culture,Negative,Culture needs improvement through more open communication
+E076,01-01-2020,Operations,1.37,4.4,86,"I'm happy with my salary, but benefits could be improved.",Compensation,Neutral,Satisfied with salary; benefits need improvement
+E095,01-01-2020,Marketing,1.59,2.9,57,"The company prioritizes work-life balance, which is great.",Work-life balance,Positive,"Company prioritizes work-life balance, which is great"
+E009,01-01-2020,Sales,1.74,1.6,29,"There's a lack of transparency in decision-making, which can be frustrating.",Management,Negative,Lack of decision-making transparency causes frustration
+E011,01-01-2020,Operations,1.87,3.1,61,"I've learned so much since joining the company, great career growth.",Career growth,Positive,Significant learning and great career growth experienced
+E062,01-01-2020,Operations,1.91,3.4,63,"The office environment is great, it's comfortable and convenient.",Culture,Positive,"Office environment is comfortable, convenient, and great"
+E007,01-01-2020,Engineering,2,1,17,I wish there were more opportunities for professional development.,Career growth,Negative,Desire more professional development opportunities
+E017,01-01-2020,HR,1.67,4.7,95,The flexible hours have greatly improved my work-life balance.,Work-life balance,Positive,Flexible hours greatly improve work-life balance
+E053,01-01-2020,Finance,1.78,2.4,52,I feel my career growth is stagnant due to limited training opportunities.,Career growth,Negative,Career growth stagnant due to limited training.
+E087,01-01-2020,Engineering,1.67,2.9,57,Management communicates decisions clearly and supports the team.,Management,Positive,Management communicates clearly and supports team.
+E025,01-01-2020,Finance,1.92,4.1,77,"The office culture feels inclusive, but occasional cliques persist.",Culture,Neutral,Culture inclusive yet occasional cliques persist.
+E081,01-01-2020,Finance,1.48,3.6,73,"Recent salary adjustments were below market rates, causing concern.",Compensation,Negative,Salary adjustments below market rates causing concern.
+E063,01-01-2020,HR,1.8,3.1,61,Heavy workload during peak season is affecting my personal time.,Work-life balance,Negative,Heavy workload during peak season impacts personal time.
+E020,01-01-2020,Marketing,1.38,2.2,45,I appreciate the mentorship program that accelerates my professional development.,Career growth,Positive,Mentorship program accelerates professional development.
+E067,01-01-2020,Sales,1.86,4.7,90,There is a lack of transparency from leadership about strategic goals.,Management,Negative,Leadership lacks transparency about strategic goals.
+E069,01-01-2020,Sales,1.37,4.2,85,Team events foster a positive culture and boost morale.,Culture,Positive,Team events foster positive culture and boost morale.
+E089,01-01-2020,Sales,1.59,4.8,94,"Compensation packages are competitive, especially the bonus structure.",Compensation,Positive,"Compensation packages competitive, especially bonus structure."
+E092,01-01-2020,Marketing,1.87,2.2,39,Frequent after-hours emails make it hard to disconnect.,Work-life balance,Negative,After-hours emails hinder disconnecting from work.
+E014,01-01-2020,Operations,1.43,3.3,71,Opportunities for promotion are clear and based on merit.,Career growth,Positive,Promotion opportunities are clear and merit-based.
+E019,01-01-2020,Finance,1.65,1.3,25,Management often overlooks employee feedback in decision making.,Management,Negative,Management frequently ignores employee feedback.
+E070,01-01-2020,HR,1.41,5,100,The collaborative environment encourages knowledge sharing.,Culture,Positive,Collaborative environment promotes knowledge sharing.
+E057,01-01-2020,Sales,1.68,2.3,47,Salary increments have been inconsistent across departments.,Compensation,Negative,Salary increments inconsistent across different departments.
+E072,01-01-2020,HR,1.74,2.7,54,Remote work options have helped maintain a healthy work-life balance.,Work-life balance,Positive,Remote work supports healthy work-life balance.
+E082,01-01-2020,Engineering,1.71,2.7,59,Career advancement pathways are unclear and need better outlining.,Career growth,Negative,Career advancement pathways lack clarity and detail.
+E083,01-01-2020,HR,1.64,2,42,Leadership recognizes and rewards high performers regularly.,Management,Positive,Leadership regularly recognizes and rewards high performers.
+E013,01-01-2020,Finance,1.57,2.8,54,The company culture prioritizes work over personal well-being.,Culture,Negative,Culture prioritizes work over personal well-being.
+E059,01-01-2020,Engineering,1.34,2.9,63,"Benefits are generous, but the health plan could be more comprehensive.",Compensation,Neutral,"Generous benefits, but health plan lacks comprehensiveness."
+E061,01-01-2020,Operations,1.92,3.7,73,The recent shift to a four-day workweek has improved my overall work-life balance.,Work-life balance,Positive,Four-day workweek improves overall work-life balance.
+E034,01-01-2020,Engineering,1.57,2,38,I appreciate the mentorship program; it's clear the company is invested in my career growth.,Career growth,Positive,Mentorship program shows company supports growth.
+E031,01-01-2020,Sales,1.49,1.3,30,Management's decision to cut the budget without consulting the team left many of us feeling undervalued.,Management,Negative,Budget cut decision made without team consultation.
+E037,01-01-2020,Finance,1.92,4,78,The open-door policy at this company has fostered a strong sense of trust and collaboration.,Culture,Positive,Open-door policy builds trust and collaboration.
+E096,01-01-2020,Finance,1.5,3.9,80,I feel my salary is below the market rate for my role and responsibilities.,Compensation,Negative,Salary perceived as below market rate.
+E079,01-01-2020,Sales,1.75,5,100,Flexible working hours have helped me manage my personal commitments more effectively.,Work-life balance,Positive,Flexible hours improve personal commitment management.
+E018,01-01-2020,Sales,1.38,2.4,52,"The quarterly performance reviews are thorough, but the feedback often feels vague and hard to act on.",Management,Neutral,Reviews thorough but feedback vague and unhelpful.
+E036,01-01-2020,Finance,1.67,2.2,39,I love how diverse and inclusive our workplace culture is; it makes every day enjoyable.,Culture,Positive,"Diverse, inclusive culture makes work enjoyable."
+E052,01-01-2020,Sales,1.98,3.8,71,"The bonus structure is unclear, making it difficult to understand how to achieve higher payouts.",Compensation,Negative,"Bonus structure unclear, hard to achieve payouts."
+E008,01-01-2020,Marketing,1.46,4.2,82,The team-building retreats have genuinely strengthened our cross-department relationships.,Culture,Positive,Team-building retreats strengthen cross-department relationships.
+E038,01-01-2020,Sales,1.56,4.2,83,I’m concerned that the workload keeps increasing with no additional support or resources.,Work-life balance,Negative,Increasing workload lacks support and resources.
+E006,01-01-2020,Engineering,1.76,4,80,The professional development stipend has allowed me to attend a conference that expanded my skill set.,Career growth,Positive,"Stipend enabled conference attendance, expanding skill set."
+E050,01-01-2020,Finance,1.74,1.5,34,The lack of communication from senior leaders has led to uncertainty about upcoming projects.,Management,Negative,Poor senior communication creates project uncertainty.
+E056,01-01-2020,Finance,1.89,4.1,77,"Our office environment encourages collaboration and creativity, which keeps me motivated.",Culture,Positive,"Collaborative, creative office environment boosts motivation."
+E080,01-01-2020,HR,1.53,2.9,60,I would like to see a more transparent compensation review process to align with my performance.,Compensation,Negative,Desire for transparent compensation review process.
+E003,01-01-2020,Engineering,1.5,1,22,The company’s commitment to mental health resources has made a noticeable difference in employee well-being.,Work-life balance,Positive,Mental health resources improve employee well‑being noticeably.
+E078,01-01-2020,Sales,1.33,2.5,53,The recent restructuring has caused confusion and a sense of instability among the staff.,Management,Negative,Restructuring caused staff confusion and instability.
+E099,01-01-2020,Engineering,1.42,4,80,I appreciate the recognition program; being acknowledged for my contributions boosts morale.,Culture,Positive,Recognition program boosts morale through acknowledgment.
+E026,01-01-2020,HR,1.59,1.5,31,"The benefits package is comprehensive, but the health insurance options could be more competitive.",Compensation,Neutral,"Comprehensive benefits, but health insurance needs improvement."
+E090,01-01-2020,Sales,1.6,2.7,51,I'm grateful for the opportunities I've had for career growth here.,Career growth,Positive,Grateful for career growth opportunities provided.
+E045,01-01-2020,Finance,1.76,1.7,39,Management has been very supportive of my ideas and initiatives.,Management,Positive,Management supportive of ideas and initiatives.
+E022,01-01-2020,Operations,1.67,1.2,21,I feel underpaid compared to the value I bring to the company.,Compensation,Negative,Feels underpaid relative to contribution.
+E084,01-01-2020,Sales,1.82,5,98,The new flexible hours policy has greatly improved my work-life balance.,Work-life balance,Positive,Flexible hours greatly improved work-life balance.
+E015,01-01-2020,Marketing,1.75,2.2,44,"I've learned so much from my colleagues, it's a great team to be part of.",Culture,Positive,Learned a lot; great collaborative team environment.
+E051,01-01-2020,Sales,1.86,3.8,78,There's a lack of transparency in communication from upper management.,Management,Negative,Lack of transparency from upper management communication.
+E064,01-01-2020,Operations,1.53,2,42,The company's mission and values truly resonate with me.,Culture,Positive,Company mission and values strongly resonate personally.
+E071,01-01-2020,Marketing,1.95,2.4,46,Career advancement opportunities are limited in my current role.,Career growth,Negative,Limited career advancement opportunities in current role.
+E093,01-01-2020,HR,1.57,3.1,59,The office environment is comfortable and conducive to productivity.,Culture,Positive,Office environment comfortable and conducive to productivity.
+E023,01-01-2020,Operations,1.88,3.8,72,I think the company could do more to recognize and reward employees' achievements.,Compensation,Negative,Company should better recognize and reward employee achievements.
+E088,01-01-2020,Operations,1.44,4.4,88,I've been able to achieve a great balance between work and personal life.,Work-life balance,Positive,Achieved great balance between work and personal life.
+E021,01-01-2020,Engineering,1.78,3.4,67,The pay scale is not competitive with other companies in the industry.,Compensation,Negative,Pay scale not competitive compared to industry peers.
+E043,01-01-2020,Sales,1.95,4.2,81,I appreciate the autonomy I've been given to make decisions in my role.,Management,Positive,Values autonomy and decision-making freedom.
+E085,01-01-2020,Operations,1.34,2.8,55,"Sometimes I feel like I'm just a cog in a machine, not a valued employee.",Culture,Negative,"Feels like an unvalued, replaceable employee."
+E024,01-01-2020,Operations,1.97,5,100,"The company prioritizes employee well-being, which is really important to me.",Work-life balance,Positive,Appreciates company focus on employee well-being.
+E068,01-01-2020,Marketing,1.94,3.8,76,I wish there were more opportunities for professional development and training.,Career growth,Negative,Desires more professional development and training opportunities.
+E039,01-01-2020,Sales,1.88,3.5,73,The team I work with is very collaborative and helpful.,Culture,Positive,Team is collaborative and helpful.
+E060,01-01-2020,Sales,1.46,4.3,86,I feel there are limited opportunities for promotion within the company.,Career growth,Negative,Limited promotion opportunities within the company.
+E074,01-01-2020,Marketing,1.75,4,76,Management communicates clearly and supports our team goals.,Management,Positive,Management communicates clearly and supports team goals.
+E004,01-01-2020,HR,1.85,3.3,66,The recent salary adjustments were disappointing and below market rates.,Compensation,Negative,Salary adjustments disappointing and below market rates.
+E086,01-01-2020,Operations,1.62,1.2,21,Our office culture fosters collaboration and inclusivity.,Culture,Positive,Office culture fosters collaboration and inclusivity.
+E005,01-01-2020,Engineering,1.63,1.3,22,Workload spikes during project deadlines make it hard to maintain personal time.,Work-life balance,Negative,Workload spikes hinder personal time during deadlines.
+E101,01-01-2020,Engineering,0.68,3,64,I appreciate the mentorship programs that aid my career growth.,Career growth,Positive,Mentorship programs positively support career growth
+E102,01-01-2020,Operations,0.54,3.5,73,There is a lack of transparency from leadership on strategic decisions.,Management,Negative,Leadership lacks transparency on strategic decisions
+E103,01-01-2020,Finance,0.4,2.6,48,The benefits package is competitive and meets my family’s needs.,Compensation,Positive,Benefits package competitive and meets family needs
+E104,01-01-2020,Engineering,0.9,4.2,86,"Team meetings often run over time, affecting my ability to finish tasks.",Work-life balance,Negative,"Meetings run over time, hindering task completion"
+E105,01-01-2020,HR,0.47,3.3,65,The company's commitment to diversity makes me proud to work here.,Culture,Positive,Company's diversity commitment fosters pride at work
+E106,01-01-2020,Engineering,0.31,2.7,55,I would like more structured feedback to help advance my skills.,Career growth,Negative,Desires more structured feedback for skill advancement
+E107,01-01-2020,Sales,0.9,4,76,Compensation has remained stagnant despite increased responsibilities.,Compensation,Negative,Compensation stagnant despite increased responsibilities
+E108,01-01-2020,Operations,0.36,2.9,59,The manager’s open-door policy encourages honest dialogue.,Management,Positive,Open-door policy encourages honest dialogue
+E109,01-01-2020,Engineering,0.75,3.2,67,Remote work options have positively impacted my overall satisfaction.,Work-life balance,Positive,Remote work improves overall satisfaction
+E110,01-01-2020,Finance,0.34,2.2,40,"Career progression paths are unclear, causing uncertainty about the future.",Career growth,Negative,Unclear career progression creates future uncertainty
+E111,01-01-2020,Engineering,0.34,2.9,59,The workplace environment feels supportive and motivating.,Culture,Positive,Supportive and motivating workplace environment.
+E112,01-01-2020,Engineering,0.99,4.4,84,Frequent last‑minute changes in project scope create stress.,Management,Negative,Last-minute scope changes cause stress.
+E113,01-01-2020,Engineering,0.85,3.8,72,Recognition for good performance is timely and appreciated.,Culture,Positive,Timely recognition of good performance appreciated.
+E114,01-01-2020,Sales,0.57,3.2,61,The current bonus structure does not reflect the effort put in.,Compensation,Negative,Bonus structure doesn't reflect employee effort.
+E115,01-01-2020,Sales,0.63,3.2,65,I appreciate the flexible working hours that allow me to manage personal commitments.,Work-life balance,Positive,Flexible hours help manage personal commitments.
+E116,01-01-2020,Marketing,0.67,3.8,72,The recent increase in overtime has made it hard to maintain a healthy work-life balance.,Work-life balance,Negative,Increased overtime harms healthy work-life balance.
+E117,01-01-2020,Marketing,0.85,3.5,69,The company provides optional wellness programs but I haven't utilized them yet.,Culture,Neutral,Optional wellness programs available but not utilized.
+E118,01-01-2020,Engineering,0.72,3.6,75,The mentorship program has accelerated my skill development.,Career growth,Positive,Mentorship program accelerated skill development.
+E119,01-01-2020,HR,0.63,3,58,I feel there's a lack of clear career progression paths within the team.,Career growth,Negative,Lack of clear career progression paths.
+E120,01-01-2020,Engineering,0.61,3.7,71,"I have access to some training resources, but I'm uncertain about their relevance.",Career growth,Neutral,"Access to training resources, relevance uncertain."
+E110,01-01-2021,Finance,1.34,2.1,45,My manager regularly checks in and provides constructive feedback.,Management,Positive,Manager checks in regularly with constructive feedback.
+E037,01-01-2021,Finance,2.92,3.7,71,Decision-making often feels top-down with little input from the team.,Management,Negative,"Decision-making feels top-down, limited team input."
+E085,01-01-2021,Operations,2.34,2.5,55,"Management schedules weekly meetings, but they rarely address employee concerns.",Management,Negative,Weekly meetings seldom address employee concerns.
+E035,01-01-2021,Engineering,2.95,1,16,The inclusive culture encourages diverse perspectives.,Culture,Positive,Inclusive culture encourages diverse perspectives.
+E092,01-01-2021,Marketing,2.87,1.9,37,The office environment feels competitive and discourages collaboration.,Culture,Negative,"Office environment competitive, discourages collaboration."
+E067,01-01-2021,Sales,2.86,4.9,100,The cultural values are stated but not consistently practiced.,Culture,Negative,Cultural values stated but not consistently practiced.
+E051,01-01-2021,Sales,2.86,3.4,70,The salary adjustments are fair and reflect my contributions.,Compensation,Positive,Salary adjustments are fair and reflect contributions.
+E070,01-01-2021,HR,2.41,4.7,92,The bonus structure seems inconsistent and unclear.,Compensation,Negative,Bonus structure appears inconsistent and unclear.
+E113,01-01-2021,Engineering,1.85,4,82,I understand the compensation package but would like more transparency.,Compensation,Negative,Understands compensation but desires greater transparency.
+E061,01-01-2021,Operations,2.92,3.7,71,"I enjoy the open-door policy, which makes communication smooth.",Management,Positive,Open-door policy makes communication smooth and enjoyable.
+E093,01-01-2021,HR,2.57,3.1,66,I often feel my ideas are overlooked during planning sessions.,Management,Negative,Ideas frequently ignored in planning sessions.
+E014,01-01-2021,Operations,2.43,3,58,The workload distribution has become more balanced since the new project.,Work-life balance,Positive,"Workload distribution improved, more balanced now."
+E118,01-01-2021,Engineering,1.72,3.9,76,I wish there were more opportunities for cross-functional collaboration.,Culture,Negative,Desire more cross-functional collaboration opportunities.
+E082,01-01-2021,Engineering,2.71,2.8,59,"The leadership team communicates company goals effectively, boosting motivation.",Management,Positive,"Leadership communicates goals effectively, boosting motivation."
+E008,01-01-2021,Marketing,2.46,3.7,76,I'm really happy with the career growth opportunities provided by the company.,Career growth,Positive,Happy with company-provided career growth opportunities.
+E064,01-01-2021,Operations,2.53,2,44,Management is very supportive and understanding of our needs.,Management,Positive,Management supportive and understanding of employee needs.
+E096,01-01-2021,Finance,2.5,3.9,78,"The company culture is great, everyone is friendly and helpful.",Culture,Positive,Company culture great; everyone friendly and helpful.
+E084,01-01-2021,Sales,2.82,5,97,I feel underpaid compared to the industry standard for my role.,Compensation,Negative,Feel underpaid relative to industry standards.
+E053,01-01-2021,Finance,2.78,2.9,63,"The work life balance here is amazing, I have a lot of flexibility.",Work-life balance,Positive,Work-life balance amazing with high flexibility.
+E066,01-01-2021,Engineering,2.59,2.7,55,"I've learned so much from my colleagues, career growth is excellent.",Career growth,Positive,Learned a lot; career growth is excellent.
+E063,01-01-2021,HR,2.8,3,65,"Sometimes I feel micromanaged by my manager, it's frustrating.",Management,Negative,"Feels micromanaged by manager, causing frustration."
+E011,01-01-2021,Operations,2.87,3.5,73,The culture of innovation and experimentation is really inspiring.,Culture,Positive,Innovation culture is inspiring and motivating.
+E105,01-01-2021,HR,1.47,3.3,64,I wish we had more opportunities for professional development.,Career growth,Negative,Lacks sufficient professional development opportunities.
+E074,01-01-2021,Marketing,2.75,4.4,92,"My manager is great, very approachable and supportive.",Management,Positive,"Manager is approachable, supportive, and great."
+E047,01-01-2021,Sales,2.58,1.7,32,"I'm not sure about the future of the company, it's a bit uncertain.",Culture,Negative,Uncertain about company's future direction.
+E018,01-01-2021,Sales,2.38,2.4,50,"The compensation package is very competitive, I'm happy with it.",Compensation,Positive,Compensation package is competitive and satisfying.
+E062,01-01-2021,Operations,2.91,3.7,77,"I love the company culture, it's very collaborative and dynamic.",Culture,Positive,Company culture is collaborative and dynamic.
+E031,01-01-2021,Sales,2.49,1.7,38,"There's a lot of bureaucracy, it can be hard to get things done.",Management,Negative,Bureaucracy hinders efficiency and task completion.
+E043,01-01-2021,Sales,2.95,3.9,73,"I've had great opportunities for career advancement, I'm grateful.",Career growth,Positive,"Received strong career advancement opportunities, grateful."
+E020,01-01-2021,Marketing,2.38,2.2,47,Sometimes I feel like I'm not being utilized to my full potential.,Career growth,Negative,"Feels underutilized, not reaching full potential."
+E045,01-01-2021,Finance,2.76,1.9,33,"The company prioritizes work life balance, it's really important to them.",Work-life balance,Positive,Company emphasizes work-life balance strongly.
+E098,01-01-2021,Sales,2.4,1.3,26,I'm a bit disappointed with the lack of transparency in management decisions.,Management,Negative,Disappointed by opaque management decision-making.
+E114,01-01-2021,Sales,1.57,3,58,The culture of feedback and continuous improvement is really valuable.,Culture,Positive,Feedback-driven culture seen as valuable.
+E099,01-01-2021,Engineering,2.42,3.8,72,Flexible scheduling has greatly improved my work-life balance.,Work-life balance,Positive,Flexible scheduling enhances work-life balance.
+E116,01-01-2021,Marketing,1.67,4,75,Increasing overtime expectations are hurting my personal time.,Work-life balance,Negative,Overtime expectations damage personal time.
+E073,01-01-2021,Sales,2.58,4.4,92,The current remote work policy is adequate but could use more clarity.,Work-life balance,Neutral,"Remote work policy adequate, needs clearer guidelines."
+E003,01-01-2021,Engineering,2.5,1.1,21,The mentorship program has accelerated my professional development.,Career growth,Positive,Mentorship program boosts professional development.
+E072,01-01-2021,HR,2.74,2.9,55,Limited promotion opportunities make it hard to envision a long-term future here.,Career growth,Negative,Few promotion opportunities hinder long-term outlook.
+E080,01-01-2021,HR,2.53,3.1,65,"Training sessions are offered regularly, though attendance is optional.",Career growth,Neutral,"Regular training offered, attendance optional."
+E076,01-01-2021,Operations,2.37,4.1,84,My manager provides clear guidance and constructive feedback.,Management,Positive,Manager gives clear guidance and constructive feedback.
+E004,01-01-2021,HR,2.85,3.8,78,Inconsistent communication from leadership creates confusion.,Management,Negative,Leadership communication is inconsistent and confusing.
+E069,01-01-2021,Sales,2.37,4.4,88,"Team meetings are held weekly, but agendas are sometimes vague.",Management,Neutral,Weekly meetings have vague agendas occasionally.
+E007,01-01-2021,Engineering,3,1,18,The inclusive culture makes me feel valued and respected.,Culture,Positive,Inclusive culture makes me feel valued.
+E009,01-01-2021,Sales,2.74,1.1,23,There is a noticeable lack of diversity in senior positions.,Culture,Negative,Lack of diversity in senior positions observed.
+E087,01-01-2021,Engineering,2.67,2.8,57,"Company events are fun, though attendance is not mandatory.",Culture,Positive,Company events are fun and optional.
+E106,01-01-2021,Engineering,1.31,2.4,44,The recent salary adjustments reflect market rates well.,Compensation,Positive,Salary adjustments align well with market rates.
+E019,01-01-2021,Finance,2.65,1.1,21,"Bonuses have been cut this year, affecting morale.",Compensation,Negative,"Bonuses cut this year, lowering morale."
+E021,01-01-2021,Engineering,2.78,3.3,71,Benefits package is standard compared to industry peers.,Compensation,Neutral,Benefits package is standard versus industry peers.
+E005,01-01-2021,Engineering,2.63,1.5,26,The option to work from home two days a week helps me manage family commitments.,Work-life balance,Positive,Work‑from‑home option aids family commitment management.
+E101,01-01-2021,Engineering,1.68,3.3,71,"Feedback on performance reviews is vague, hindering growth.",Career growth,Negative,Vague performance review feedback hinders growth.
+E056,01-01-2021,Finance,2.89,3.7,70,Leadership actively solicits employee input for decision making.,Management,Positive,Leaders seek employee input for decisions
+E103,01-01-2021,Finance,1.4,2.2,41,Office politics sometimes undermine collaborative efforts.,Culture,Negative,Office politics sometimes hinder collaboration
+E050,01-01-2021,Finance,2.74,1.5,28,"The payroll system is reliable, though there is limited flexibility in pay frequency.",Compensation,Neutral,Payroll reliable but limited pay frequency flexibility
+E090,01-01-2021,Sales,2.6,2.2,46,The recent flexible scheduling has greatly improved my work-life balance.,Work-life balance,Positive,Flexible scheduling greatly improves work-life balance
+E034,01-01-2021,Engineering,2.57,1.7,39,"I feel the workload keeps increasing without any support, making it hard to maintain a healthy work-life balance.",Work-life balance,Negative,Increasing workload hampers healthy work-life balance
+E102,01-01-2021,Operations,1.54,3.3,65,"I appreciate the new wellness program, but it hasn't had a noticeable impact on my daily routine.",Culture,Neutral,Wellness program appreciated but lacks daily impact
+E023,01-01-2021,Operations,2.88,3.4,68,The mentorship program has opened up clear pathways for career growth.,Career growth,Positive,Mentorship program creates clear career growth pathways
+E033,01-01-2021,Finance,2.38,3.1,58,"I don't see any opportunities for advancement, which is discouraging for my career growth.",Career growth,Negative,No advancement opportunities discourage career growth
+E026,01-01-2021,HR,2.59,1.8,38,"Career development workshops are available, but attendance is low.",Career growth,Neutral,Workshops available but suffer low attendance
+E108,01-01-2021,Operations,1.36,2.7,55,"Management has been transparent about company goals, which boosts my confidence.",Management,Positive,Transparent management of goals boosts confidence
+E006,01-01-2021,Engineering,2.76,4.3,82,The management style feels top-down and doesn't encourage employee input.,Management,Negative,Top-down style discourages employee input.
+E079,01-01-2021,Sales,2.75,4.9,95,"Management meetings are scheduled, but they often run over time.",Management,Negative,Meetings run over time despite scheduling.
+E112,01-01-2021,Engineering,1.99,4.5,91,The team culture is inclusive and encourages collaboration.,Culture,Positive,Inclusive culture encourages collaboration among team.
+E107,01-01-2021,Sales,1.9,3.8,77,I feel the culture is competitive to the point where collaboration is stifled.,Culture,Negative,Competitive culture stifles collaboration and teamwork.
+E059,01-01-2021,Engineering,2.34,2.5,53,"The workplace culture is fine, but there could be more team-building events.",Culture,Neutral,Culture fine; more team-building events desired.
+E115,01-01-2021,Sales,1.63,3.7,75,The new compensation package reflects our hard work and keeps us motivated.,Compensation,Positive,"Compensation package reflects hard work, motivates employees."
+E089,01-01-2021,Sales,2.59,4.9,100,"The compensation hasn't kept pace with market rates, which is disheartening.",Compensation,Negative,"Compensation lags behind market rates, disheartening."
+E117,01-01-2021,Marketing,1.85,3.7,77,"Compensation discussions happen annually, but no adjustments are made.",Compensation,Negative,Annual compensation talks yield no adjustments.
+E060,01-01-2021,Sales,2.46,4.3,84,I enjoy the balance between challenging projects and supportive supervision.,Work-life balance,Positive,Enjoy balance of challenging projects and support.
+E095,01-01-2021,Marketing,2.59,2.5,54,"The workload is overwhelming, and management rarely provides relief.",Work-life balance,Negative,Overwhelming workload; management rarely offers relief.
+E057,01-01-2021,Sales,2.68,2.5,54,"Work-life balance is acceptable, though there is room for improvement.",Work-life balance,Neutral,Balance acceptable but could be improved
+E071,01-01-2021,Marketing,2.95,2.4,47,Career growth opportunities are clearly communicated during reviews.,Career growth,Positive,Growth opportunities clearly communicated during reviews
+E030,01-01-2021,Finance,2.38,2.4,50,The lack of recognition for extra hours makes me feel undervalued.,Management,Negative,Lack of recognition for extra hours
+E119,01-01-2021,HR,1.63,2.7,53,I'm really happy with the opportunities for career growth here.,Career growth,Positive,Happy with career growth opportunities here
+E052,01-01-2021,Sales,2.98,3.3,63,"The work life balance is great, I have enough time for my personal life.",Work-life balance,Positive,"Work-life balance great, enough personal time"
+E013,01-01-2021,Finance,2.57,2.3,43,"I've learned so much in the past year, career growth is a priority here.",Career growth,Positive,"Learned much, career growth prioritized this year"
+E032,01-01-2021,Operations,2.79,2.4,43,"Sometimes I feel micromanaged by my supervisor, it's frustrating.",Management,Negative,"Feel micromanaged by supervisor, frustrating"
+E109,01-01-2021,Engineering,1.75,3.3,68,The team outings and social events are a great way to bond with colleagues.,Culture,Positive,Team outings and events foster colleague bonding
+E027,01-01-2021,Operations,2.46,4.3,81,"My salary is very competitive, I'm happy with the compensation package.",Compensation,Positive,"Salary competitive, happy with compensation package"
+E025,01-01-2021,Finance,2.92,3.6,71,"There's a lot of red tape and bureaucracy in the company, it slows us down.",Management,Negative,Red tape and bureaucracy slow company processes
+E101,01-01-2021,Engineering,2.68,2.9,60,"I love the flexible working hours, it really helps with my work life balance.",Work-life balance,Positive,Flexible hours improve work-life balance
+E102,01-01-2021,Operations,2.54,3.2,64,"I've had some great mentors and role models in the company, they've helped me grow.",Career growth,Positive,Great mentors helped professional growth
+E103,01-01-2021,Finance,2.4,2,43,The company values and mission are really inspiring and motivating.,Culture,Positive,Company values and mission inspire employees
+E104,01-01-2021,Engineering,1.9,4.2,84,"The communication between teams is great, we all work well together.",Culture,Positive,Team communication is great and collaborative
+E105,01-01-2021,HR,2.47,3.8,78,I'm not happy with the lack of transparency in decision making processes.,Management,Negative,Lack of transparency in decision-making processes
+E106,01-01-2021,Engineering,2.31,2,45,"The company is very inclusive and diverse, I feel welcome and valued.",Culture,Positive,Inclusive and diverse environment makes me valued
+E107,01-01-2021,Sales,2.9,4.2,88,I think the performance reviews and feedback process could be improved.,Management,Neutral,Performance reviews and feedback need improvement
+E108,01-01-2021,Operations,2.36,2.6,53,Flexible remote options have greatly improved my work-life balance.,Work-life balance,Positive,Remote options greatly improve work-life balance
+E109,01-01-2021,Engineering,2.75,2.9,62,The recent increase in overtime is making it hard to maintain a healthy personal life.,Work-life balance,Negative,Overtime increase harms personal life balance
+E110,01-01-2021,Finance,2.34,2.5,50,"Current scheduling is consistent, though additional flexibility would be appreciated.",Work-life balance,Neutral,Scheduling consistent but more flexibility desired
+E111,01-01-2021,Engineering,1.34,2.4,46,I appreciate the clear path for promotion and the mentorship programs available.,Career growth,Positive,Clear promotion path and mentorship appreciated.
+E112,01-01-2021,Engineering,2.99,4.3,87,Opportunities for advancement feel limited given the flat organizational structure.,Career growth,Negative,Advancement opportunities limited by flat structure.
+E113,01-01-2021,Engineering,2.85,3.6,70,"The training workshops are helpful, but more hands‑on projects would aid growth.",Career growth,Neutral,Workshops helpful; need more hands‑on projects.
+E114,01-01-2021,Sales,2.57,2.5,52,Management communicates goals clearly and supports team collaboration.,Management,Positive,Management clear on goals and supportive.
+E115,01-01-2021,Sales,2.63,3.5,72,"Decision‑making often feels top‑down, leaving little room for employee input.",Management,Negative,Decision‑making top‑down; limited employee input.
+E116,01-01-2021,Marketing,2.67,4.5,95,Regular check‑ins with my manager have helped keep projects on track.,Management,Positive,Regular manager check‑ins keep projects on track.
+E117,01-01-2021,Marketing,2.85,3.2,64,The company culture is inclusive and encourages diverse perspectives.,Culture,Positive,Inclusive culture encourages diverse perspectives.
+E118,01-01-2021,Engineering,2.72,4.3,85,Occasional cliques make it difficult for new hires to feel fully integrated.,Culture,Negative,Cliques hinder new hires' integration.
+E119,01-01-2021,HR,2.63,3,57,"Team events are enjoyable, though they sometimes clash with personal commitments.",Work-life balance,Neutral,Team events enjoyable but sometimes clash with commitments.
+E120,01-01-2021,Engineering,1.61,3.3,69,My compensation package is competitive and reflects my contributions.,Compensation,Positive,Compensation competitive and reflects contributions.
+E121,01-01-2021,Marketing,0.92,4.3,81,Salary reviews have been stagnant despite increased responsibilities.,Compensation,Negative,Salary reviews stagnant despite added responsibilities.
+E122,01-01-2021,Finance,0.85,3.2,60,Performance bonuses are transparent and motivate higher performance.,Compensation,Positive,Transparent bonuses motivate higher performance.
+E123,01-01-2021,Finance,0.96,4,83,"Benefits are comprehensive, yet the health plan options could be expanded.",Compensation,Neutral,"Benefits good, but health plan options need expansion."
+E124,01-01-2021,Operations,0.45,2.7,55,Workload distribution is fair across the department.,Work-life balance,Positive,Fair workload distribution across department.
+E125,01-01-2021,Operations,0.47,3.2,65,Unclear priorities have led to duplicated effort among team members.,Management,Negative,Unclear priorities cause duplicated team effort.
+E126,01-01-2021,Marketing,0.94,3.8,79,Recognition programs highlight employee achievements effectively.,Culture,Positive,Recognition programs effectively highlight employee achievements.
+E127,01-01-2021,HR,0.83,3.2,65,There is a lack of acknowledgment for overtime work during busy periods.,Culture,Negative,Overtime work not acknowledged during busy periods.
+E128,01-01-2021,Marketing,0.64,3.5,71,The recent increase in project deadlines has made it hard to maintain a healthy work-life balance.,Work-life balance,Negative,Tight deadlines hurt healthy work-life balance.
+E129,01-01-2021,Engineering,0.47,3.1,64,I appreciate the flexible hours policy that lets me attend to family responsibilities.,Work-life balance,Positive,Flexible hours policy supports family responsibilities.
+E130,01-01-2021,Operations,0.41,2.7,49,There are limited opportunities for skill development and promotions within my department.,Career growth,Negative,Limited skill development and promotion opportunities.
+E066,01-01-2022,Engineering,3.59,3,63,The mentorship program has helped me identify clear career growth paths.,Career growth,Positive,Mentorship program clarifies career growth paths.
+E018,01-01-2022,Sales,3.38,2.1,42,"Management often changes priorities without giving enough context, causing confusion.",Management,Negative,Frequent priority changes cause confusion.
+E112,01-01-2022,Engineering,3.99,4.2,87,I feel valued when my ideas are acknowledged in team meetings.,Culture,Positive,"Ideas acknowledged, feeling valued in meetings."
+E037,01-01-2022,Finance,3.92,4.1,82,The office culture feels more like a competitive environment than a collaborative one.,Culture,Negative,"Office culture is competitive, not collaborative."
+E104,01-01-2022,Engineering,2.9,3.7,78,Team-building events have improved camaraderie among colleagues.,Culture,Positive,Team-building events boost colleague camaraderie.
+E119,01-01-2022,HR,3.63,2.9,56,My current salary does not reflect the market rates for my role.,Compensation,Negative,Salary below market rates for role.
+E087,01-01-2022,Engineering,3.67,2.6,54,"The performance review process is transparent and fair, which boosts morale.",Management,Positive,"Transparent, fair reviews boost employee morale."
+E101,01-01-2022,Engineering,3.68,2.5,46,"Workload fluctuations are unpredictable, making it difficult to plan personal time.",Work-life balance,Negative,Unpredictable workload hampers personal time planning.
+E111,01-01-2022,Engineering,2.34,1.9,41,The company’s commitment to sustainability aligns well with my personal values.,Culture,Positive,Company sustainability aligns with personal values.
+E076,01-01-2022,Operations,3.37,4.4,89,I would like clearer communication from leadership regarding long-term goals.,Management,Negative,Desire clearer leadership communication on long-term goals.
+E033,01-01-2022,Finance,3.38,2.9,57,The benefits package includes comprehensive health coverage and generous vacation days.,Compensation,Positive,Comprehensive health coverage and generous vacation days.
+E025,01-01-2022,Finance,3.92,3.9,82,There’s a lack of recognition for the extra effort I put into cross-department projects.,Management,Negative,Lack of recognition for extra cross-department effort.
+E107,01-01-2022,Sales,3.9,4,77,The workplace atmosphere encourages open dialogue and respectful disagreement.,Culture,Positive,Atmosphere encourages open dialogue and respectful disagreement.
+E071,01-01-2022,Marketing,3.95,2,38,I’m unsure how my performance metrics will impact future compensation.,Compensation,Neutral,Uncertain about performance metrics affecting future compensation.
+E023,01-01-2022,Operations,3.88,3.3,63,The remote work policy has improved my ability to balance professional and personal commitments.,Work-life balance,Positive,Remote work policy improves professional and personal balance.
+E099,01-01-2022,Engineering,3.42,4.1,80,"The onboarding process was rushed, leaving me uncertain about my responsibilities.",Management,Negative,Rushed onboarding left uncertain about responsibilities.
+E130,01-01-2022,Operations,1.41,2.5,47,The company’s diverse hiring practices foster a welcoming environment for all employees.,Culture,Positive,Diverse hiring practices foster welcoming environment for employees.
+E089,01-01-2022,Sales,3.59,5,98,"I love the new training programs, they have really helped my career growth.",Career growth,Positive,New training programs greatly helped career growth.
+E114,01-01-2022,Sales,3.57,2.1,44,Management is very supportive and always willing to listen.,Management,Positive,Management very supportive and always willing to listen.
+E092,01-01-2022,Marketing,3.87,1.9,41,"The company culture is amazing, everyone is so friendly and helpful.",Culture,Positive,Company culture amazing; everyone friendly and helpful.
+E125,01-01-2022,Operations,1.47,3.2,67,"I feel underpaid compared to industry standards, compensation needs to be revised.",Compensation,Negative,Feeling underpaid; compensation requires revision.
+E124,01-01-2022,Operations,1.45,2.2,41,Flexible working hours have improved my work-life balance significantly.,Work-life balance,Positive,Flexible hours greatly improve work-life balance.
+E072,01-01-2022,HR,3.74,2.8,60,There are limited opportunities for career advancement in my department.,Career growth,Negative,Limited opportunities for career advancement in department.
+E053,01-01-2022,Finance,3.78,3,63,The team outings and social events have really improved the company culture.,Culture,Positive,Team outings improved company culture significantly.
+E007,01-01-2022,Engineering,4,1.1,20,I have a great manager who always provides constructive feedback.,Management,Positive,Great manager provides consistent constructive feedback.
+E090,01-01-2022,Sales,3.6,1.8,36,"The salary increase I received was a nice surprise, thanks to the company.",Compensation,Positive,Salary increase was a pleasant surprise.
+E117,01-01-2022,Marketing,3.85,3.6,73,Sometimes I feel overwhelmed with work and it affects my personal life.,Work-life balance,Negative,Work overload impacts personal life negatively.
+E030,01-01-2022,Finance,3.38,2.4,52,The mentorship program has been incredibly helpful for my career growth.,Career growth,Positive,Mentorship program greatly aids career growth.
+E105,01-01-2022,HR,3.47,4.2,83,I wish we had more autonomy to make decisions in our team.,Management,Negative,Desire more team autonomy in decision-making.
+E062,01-01-2022,Operations,3.91,4.2,86,The company's mission and values align perfectly with my own.,Culture,Positive,Company mission aligns perfectly with personal values.
+E057,01-01-2022,Sales,3.68,2.7,50,I'm disappointed with the lack of transparency in the compensation structure.,Compensation,Negative,Disappointed about compensation transparency lack
+E120,01-01-2022,Engineering,2.61,3.1,64,"The company has a great work-life balance, I can pursue my hobbies.",Work-life balance,Positive,Great work-life balance enables hobby pursuits
+E096,01-01-2022,Finance,3.5,4.1,78,"Career growth opportunities are scarce, and it's frustrating.",Career growth,Negative,Scarce career growth opportunities cause frustration
+E005,01-01-2022,Engineering,3.63,1.6,36,"My manager is not very approachable, it's hard to discuss issues.",Management,Negative,"Manager not approachable, difficult to discuss issues"
+E110,01-01-2022,Finance,3.34,2.9,62,"The company culture is very inclusive, and I feel valued as an employee.",Culture,Positive,Inclusive culture makes employee feel valued
+E070,01-01-2022,HR,3.41,4.2,88,"I'm not satisfied with my current role, and I'm looking for a change.",Career growth,Negative,"Unsatisfied with current role, seeking change"
+E127,01-01-2022,HR,1.83,3.7,74,The flexible hours have greatly improved my work‑life balance.,Work-life balance,Positive,Flexible hours greatly improve work-life balance
+E020,01-01-2022,Marketing,3.38,2.7,57,I appreciate the clear career path options outlined during recent meetings.,Career growth,Positive,Appreciate clear career path options from meetings
+E031,01-01-2022,Sales,3.49,1.5,29,Management's communication could be more transparent about project changes.,Management,Negative,Management communication needs more transparency on project changes
+E052,01-01-2022,Sales,3.98,3.6,70,The inclusive culture makes me feel valued and motivated.,Culture,Positive,"Inclusive culture makes me feel valued, motivated"
+E009,01-01-2022,Sales,3.74,1.3,26,Recent salary adjustments have not kept pace with market rates.,Compensation,Negative,Salary adjustments lag behind market rates.
+E043,01-01-2022,Sales,3.95,3.9,75,Balancing remote work with occasional office days is working well for me.,Work-life balance,Positive,Remote work plus office days works well.
+E059,01-01-2022,Engineering,3.34,2.6,52,Opportunities for professional development are abundant but under‑utilized.,Career growth,Negative,Development opportunities abundant yet underutilized.
+E056,01-01-2022,Finance,3.89,3.9,74,"Decision‑making feels too centralized, limiting team autonomy.",Management,Negative,Centralized decision-making limits team autonomy.
+E045,01-01-2022,Finance,3.76,1.5,29,Team events foster a strong sense of community and belonging.,Culture,Positive,Team events build community and belonging.
+E126,01-01-2022,Marketing,1.94,3.7,78,The bonus structure feels unpredictable and unclear.,Compensation,Negative,Bonus structure is unpredictable and unclear.
+E032,01-01-2022,Operations,3.79,2.2,42,Having a set end‑of‑day cutoff helps maintain personal time.,Work-life balance,Positive,End-of-day cutoff maintains personal time.
+E080,01-01-2022,HR,3.53,2.6,55,Mentorship programs have accelerated my skill growth.,Career growth,Positive,Mentorship programs accelerated skill growth.
+E108,01-01-2022,Operations,3.36,2.3,42,Performance reviews often lack specific feedback.,Management,Negative,Reviews often lack specific feedback.
+E069,01-01-2022,Sales,3.37,4.2,87,The open‑door policy encourages honest dialogue across levels.,Culture,Positive,Open-door policy encourages honest dialogue.
+E060,01-01-2022,Sales,3.46,4.8,96,Benefits packages are competitive but could include more wellness options.,Compensation,Neutral,"Competitive benefits, need more wellness options."
+E074,01-01-2022,Marketing,3.75,4.3,82,Occasional overtime is manageable thanks to supportive managers.,Work-life balance,Positive,Occasional overtime manageable with supportive managers.
+E085,01-01-2022,Operations,3.34,2.7,57,Career advancement seems slow despite strong performance.,Career growth,Negative,Career advancement slow despite strong performance.
+E021,01-01-2022,Engineering,3.78,3.5,69,Leadership shows genuine interest in employee wellbeing.,Management,Positive,Leadership genuinely cares about employee wellbeing.
+E098,01-01-2022,Sales,3.4,1.8,35,Compensation packages need better alignment with cost‑of‑living increases.,Compensation,Negative,Compensation misaligned with cost‑of‑living increases.
+E102,01-01-2022,Operations,3.54,3,55,The collaborative environment makes daily tasks enjoyable.,Culture,Positive,Collaborative environment makes daily tasks enjoyable.
+E064,01-01-2022,Operations,3.53,2.1,45,"I appreciate the regular check-ins, but sometimes I feel the workload is overwhelming.",Work-life balance,Neutral,"Regular check-ins appreciated, workload sometimes overwhelming."
+E115,01-01-2022,Sales,3.63,3.8,73,I wish there were more opportunities for professional development within the company.,Career growth,Negative,Desire more professional development opportunities.
+E051,01-01-2022,Sales,3.86,3.1,60,"The recent policy change has increased my overtime hours, impacting my personal life.",Work-life balance,Negative,"Policy change increased overtime, affecting personal life."
+E006,01-01-2022,Engineering,3.76,4,84,Management's communication has been clear and supportive during the transition.,Management,Positive,Management communication clear and supportive during transition.
+E035,01-01-2022,Engineering,3.95,1,18,The benefits package feels competitive but could include more health coverage.,Compensation,Neutral,Benefits competitive but need more health coverage.
+E047,01-01-2022,Sales,3.58,1.3,27,"I feel my ideas are often overlooked during meetings, which is discouraging.",Management,Negative,"Ideas frequently ignored in meetings, discouraging."
+E084,01-01-2022,Sales,3.82,5,97,The team culture encourages collaboration and creativity.,Culture,Positive,Team culture promotes collaboration and creativity.
+E026,01-01-2022,HR,3.59,2.1,47,I am not satisfied with the current salary compared to industry standards.,Compensation,Negative,"Salary below industry standards, not satisfied."
+E013,01-01-2022,Finance,3.57,2,37,"There is a strong sense of community here, which makes coming to work enjoyable.",Culture,Positive,Strong community makes work enjoyable.
+E116,01-01-2022,Marketing,3.67,4.3,91,"The career path is unclear, making it hard to set long-term goals.",Career growth,Negative,Unclear career path hinders long-term goal setting.
+E004,01-01-2022,HR,3.85,3.4,66,I appreciate the mentorship program; it's helped me grow professionally.,Career growth,Positive,"Mentorship program appreciated, aids professional growth."
+E118,01-01-2022,Engineering,3.72,4.5,92,The new project deadlines are unrealistic and stress the entire team.,Management,Negative,Unrealistic project deadlines stress entire team.
+E014,01-01-2022,Operations,3.43,2.7,59,Management often listens to feedback but rarely acts on it.,Management,Negative,Management listens but seldom acts on feedback.
+E113,01-01-2022,Engineering,3.85,3.8,79,The flexible schedule policy allows me to balance personal responsibilities.,Work-life balance,Positive,Flexible schedule helps balance personal responsibilities.
+E027,01-01-2022,Operations,3.46,4.6,94,I would like more transparent criteria for promotions.,Career growth,Negative,Desires clearer transparent promotion criteria.
+E073,01-01-2022,Sales,3.58,4.9,100,The office environment feels inclusive and respectful.,Culture,Positive,Office environment feels inclusive and respectful.
+E011,01-01-2022,Operations,3.87,3.6,73,The performance bonus structure is unclear and difficult to navigate.,Compensation,Negative,Performance bonus structure unclear and hard to navigate.
+E106,01-01-2022,Engineering,3.31,1.6,31,The company hosts regular social events that strengthen team bonds.,Culture,Positive,Regular social events strengthen team bonds.
+E094,01-01-2022,Marketing,1.43,2.8,57,I feel undervalued when my contributions are not acknowledged.,Management,Negative,Feels undervalued when contributions aren't acknowledged.
+E095,01-01-2022,Marketing,3.59,2.5,52,"I love the opportunities for career growth here, it's amazing.",Career growth,Positive,Loves amazing opportunities for career growth.
+E096,01-01-2022,Finance,4.5,4.6,95,"Management is very supportive, they always listen to our concerns.",Management,Positive,"Management very supportive, always listens to concerns."
+E097,01-01-2022,Sales,1.86,3.1,65,"The company culture is not very inclusive, we need to work on that.",Culture,Negative,"Company culture not very inclusive, needs improvement."
+E098,01-01-2022,Sales,4.4,2.1,41,"I feel underpaid compared to the industry standard, it's frustrating.",Compensation,Negative,"Feels underpaid compared to industry standard, frustrated."
+E099,01-01-2022,Engineering,4.42,4.5,86,The flexible hours really help me achieve a better work-life balance.,Work-life balance,Positive,Flexible hours improve work-life balance significantly.
+E100,01-01-2022,Finance,1.63,1,24,I'm excited about the new training programs for career development.,Career growth,Positive,Excited about new training programs for development
+E101,01-01-2022,Engineering,4.68,2.3,46,"Sometimes I feel micromanaged, it's affecting my productivity.",Management,Negative,"Feel micromanaged, impacting productivity negatively"
+E102,01-01-2022,Operations,4.54,3.3,67,"The team outings are fun, they really help to build a positive culture.",Culture,Positive,"Team outings fun, build positive culture"
+E103,01-01-2022,Finance,3.4,2.2,46,"The salary increase this year was a nice surprise, thanks to the company.",Compensation,Positive,Salary increase was a pleasant surprise
+E104,01-01-2022,Engineering,3.9,3.3,67,"I wish we had more autonomy in our projects, it would be great for growth.",Career growth,Negative,Desire more project autonomy for growth
+E105,01-01-2022,HR,4.47,4.5,86,The communication from upper management is not very clear or transparent.,Management,Negative,Upper management communication unclear and nontransparent
+E106,01-01-2022,Engineering,4.31,1.6,30,"I love the fact that we can work from home, it's a big plus for me.",Work-life balance,Positive,"Love work-from-home flexibility, big plus"
+E107,01-01-2022,Sales,4.9,3.6,75,"The company's mission and values really align with my own, I'm proud to work here.",Culture,Positive,Company mission aligns with personal values
+E108,01-01-2022,Operations,4.36,2,40,The lack of clear goals and expectations is causing some confusion.,Management,Negative,Unclear goals cause confusion among employees
+E109,01-01-2022,Engineering,3.75,3.1,64,"The benefits package is excellent, it's one of the reasons I stay.",Compensation,Positive,Excellent benefits package encourages employee retention
+E110,01-01-2022,Finance,4.34,2.7,50,"There's a lot of favoritism in promotions, it's not very fair.",Career growth,Negative,Favoritism in promotions perceived as unfair.
+E111,01-01-2022,Engineering,3.34,2.3,44,"I'm learning so much from my colleagues, the knowledge sharing is great.",Culture,Positive,"Colleagues share knowledge, fostering strong learning environment."
+E112,01-01-2022,Engineering,4.99,4.4,93,"The office environment is not very comfortable, we need better equipment.",Culture,Negative,Office environment uncomfortable; equipment needs improvement.
+E113,01-01-2022,Engineering,4.85,4,83,"The recognition for our hard work is lacking, it would be nice to feel appreciated.",Management,Negative,Lack of recognition makes employees feel unappreciated.
+E114,01-01-2022,Sales,4.57,1.7,36,Flexible remote work options have greatly improved my work-life balance.,Work-life balance,Positive,Remote flexibility significantly enhances work-life balance.
+E115,01-01-2022,Sales,4.63,3.7,77,The recent increase in project deadlines is making it hard to maintain a healthy personal schedule.,Work-life balance,Negative,Tight deadlines hinder maintaining healthy personal schedule.
+E116,01-01-2022,Marketing,4.67,3.9,80,I appreciate the clear career path outlined during my last performance review.,Career growth,Positive,Clear career path appreciated after performance review.
+E117,01-01-2022,Marketing,4.85,3.8,80,Opportunities for skill development feel stagnant at the moment.,Career growth,Negative,Skill development opportunities currently feel stagnant.
+E118,01-01-2022,Engineering,4.72,4.4,83,Management communicates expectations clearly and supports team decisions.,Management,Positive,Management clearly communicates expectations and supports decisions.
+E119,01-01-2022,HR,4.63,3,60,Inconsistent feedback from supervisors leaves the team uncertain about priorities.,Management,Negative,Inconsistent supervisor feedback creates team uncertainty.
+E120,01-01-2022,Engineering,3.61,3.1,63,The company's inclusive culture makes me feel valued and respected.,Culture,Positive,Inclusive culture makes me feel valued.
+E121,01-01-2022,Marketing,1.92,3.8,73,"There is a noticeable lack of collaboration between departments, affecting overall morale.",Culture,Negative,Lack of interdepartmental collaboration hurts morale.
+E122,01-01-2022,Finance,1.85,3.1,60,Competitive salaries and bonuses reflect the market standards positively.,Compensation,Positive,Salaries and bonuses are competitive and market‑aligned.
+E123,01-01-2022,Finance,1.96,3.7,77,"The recent salary adjustments did not keep pace with inflation, causing concerns.",Compensation,Negative,"Salary adjustments lag behind inflation, causing concerns."
+E124,01-01-2022,Operations,2.45,2,39,Having access to wellness programs has boosted my overall job satisfaction.,Work-life balance,Positive,Wellness programs improve overall job satisfaction.
+E125,01-01-2022,Operations,2.47,3.5,70,Limited vacation days make it difficult to recharge during busy periods.,Work-life balance,Negative,Limited vacation days hinder recharging during busy periods.
+E126,01-01-2022,Marketing,2.94,3.9,79,Mentorship programs have helped me advance my professional goals.,Career growth,Positive,Mentorship programs aid professional goal advancement.
+E127,01-01-2022,HR,2.83,3.9,80,Career advancement feels limited due to unclear promotion criteria.,Career growth,Negative,Unclear promotion criteria limit career advancement.
+E128,01-01-2022,Marketing,1.64,3.4,68,Leadership consistently acknowledges and celebrates team achievements.,Management,Positive,Leadership regularly acknowledges and celebrates team achievements.
+E129,01-01-2022,Engineering,1.47,3.5,67,Decision‑making processes often feel opaque and top‑down.,Management,Negative,Decision‑making feels opaque and overly top‑down.
+E130,01-01-2022,Operations,2.41,2.6,56,The office environment fosters creativity and open communication.,Culture,Positive,Office environment encourages creativity and communication.
+E131,01-01-2022,Marketing,0.82,3.4,65,High turnover in the team suggests underlying cultural issues.,Culture,Negative,High turnover indicates possible cultural problems.
+E132,01-01-2022,HR,0.47,2.8,55,Performance incentives are motivating and align with our targets.,Compensation,Positive,Incentives motivate and align with company targets.
+E133,01-01-2022,Engineering,0.98,3.6,72,Lack of transparent compensation structures creates uncertainty among staff.,Compensation,Negative,Unclear compensation structures cause staff uncertainty.
