@@ -82,6 +82,7 @@ def load_dashboard():
 
 
     CHAINLIT_URL = "http://localhost:8000"
+    CHAINLIT_URL= "https://ade3-152-52-111-38.ngrok-free.app"
 
     st.sidebar.markdown("## 🤖 AI Assistant")
     st.sidebar.link_button("💬 Chainlit AI Chat Bot", CHAINLIT_URL)
